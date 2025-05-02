@@ -1,6 +1,5 @@
 # torchtrain
 
-**torchtrain**  
 Minimal C++ starter for training deep learning models with [LibTorch](https://pytorch.org/cppdocs/).  
 Includes MLP, custom datasets, OpenCV, spdlog, and CMake setup.
 
