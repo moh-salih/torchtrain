@@ -15,4 +15,4 @@ Includes MLP, custom datasets, OpenCV, spdlog, and CMake setup.
 ```bash
 mkdir build && cd build
 cmake ..
-cmake --build .```
+cmake --build 
